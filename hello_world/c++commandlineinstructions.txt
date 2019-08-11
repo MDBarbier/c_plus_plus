@@ -1,0 +1,4 @@
+1. First, create your .cpp source code file
+2. Then run the compiler: 'gcc helloworld.cpp -lstdc++' (the parameter points it to the c++ library)
+2a. You can also specify the name of the output file here, but if you don't you'll get "a.out"
+3. To run the program: './a.out'
